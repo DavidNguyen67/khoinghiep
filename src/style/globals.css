@@ -1,0 +1,13 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.bg-body-tertiary {
+  background-color: lightblue !important;
+}
+
+.backgroundColor {
+  background-color: blue !important;
+}
+
+.m-l-64px {
+  margin-left: 64px;
+}
